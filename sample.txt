@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 hariharan is a great guy
-=======
 
 ### sagar
 The old lighthouse stoo
@@ -37,4 +36,3 @@ me after a long day. Above the busy streets, rooftop gardens and hidden terraces
 offered peaceful escapes where the sounds of the city softened into a distant hum. 
 From that height, the chaos below seemed almost orderly, a reminder that countless 
 individual stories were unfolding at the same moment.
->>>>>>> 31d59267c7324929833130073bcf4da3057d312c
